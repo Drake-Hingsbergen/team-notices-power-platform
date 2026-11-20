@@ -1,0 +1,4 @@
+out/
+config/settings.json
+__pycache__/
+*.zip

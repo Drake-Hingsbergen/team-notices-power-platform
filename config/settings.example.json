@@ -1,0 +1,14 @@
+{
+  "siteUrl": "https://contoso.sharepoint.com/sites/TeamNotices",
+  "lists": {
+    "notices": "00000000-0000-0000-0000-000000000001",
+    "acknowledgements": "00000000-0000-0000-0000-000000000002",
+    "requests": "00000000-0000-0000-0000-000000000003",
+    "members": "00000000-0000-0000-0000-000000000004",
+    "questions": "00000000-0000-0000-0000-000000000005"
+  },
+  "timeZone": "Eastern Standard Time",
+  "summaryMailbox": "team-notices@contoso.com",
+  "appUrl": "https://apps.powerapps.com/play/e/<environment-id>/a/<app-id>?tenantId=<tenant-id>",
+  "testSenderEmail": "owner@contoso.com"
+}
