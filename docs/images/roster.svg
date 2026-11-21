@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 768" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Update with acknowledgement roster, sample data">
+<rect x="0" y="0" width="1366" height="768" fill="#F3F5F8"/>
+<rect x="0" y="0" width="1366" height="64" fill="#16243A"/>
+<text x="32" y="39" font-size="18" fill="#FFFFFF" text-anchor="start" font-weight="600">Team Notices</text>
+<text x="295.0" y="37" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="600">My notices</text>
+<rect x="366" y="10" width="100" height="44" fill="#2A3D5C" rx="4"/>
+<text x="416.0" y="37" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="600">Search</text>
+<text x="537.0" y="37" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="600">New update</text>
+<text x="1334" y="37" font-size="14" fill="#D5DDEA" text-anchor="end">Alex Rivera</text>
+<rect x="32" y="84" width="580" height="660" fill="#FFFFFF" stroke="#D6DCE5"/>
+<rect x="52" y="100" width="100" height="40" fill="#FFFFFF" stroke="#8A95A6" rx="4"/>
+<text x="102.0" y="125.0" font-size="14" fill="#1A2230" text-anchor="middle" font-weight="600">Back</text>
+<text x="52" y="168" font-size="11" fill="#1B4F9C" text-anchor="start" font-weight="600">PROCESS CHANGE   Version 1</text>
+<text x="52" y="200" font-size="20" fill="#1A2230" text-anchor="start" font-weight="600">Password reset calls now require</text>
+<text x="52" y="226" font-size="20" fill="#1A2230" text-anchor="start" font-weight="600">a manager callback</text>
+<text x="52" y="268" font-size="14" fill="#1A2230" text-anchor="start">Starting Monday, do not reset a password on the</text>
+<text x="52" y="290" font-size="14" fill="#1A2230" text-anchor="start">caller&#x27;s word alone. Call the user&#x27;s manager back at</text>
+<text x="52" y="312" font-size="14" fill="#1A2230" text-anchor="start">the number in the directory and confirm before you</text>
+<text x="52" y="334" font-size="14" fill="#1A2230" text-anchor="start">reset. Log the manager&#x27;s name in the ticket.</text>
+<rect x="54" y="438" width="102" height="62" fill="#E4E8EE" stroke="#D6DCE5"/>
+<text x="105" y="474" font-size="11" fill="#4A5568" text-anchor="middle">image</text>
+<text x="54" y="516" font-size="10" fill="#4A5568" text-anchor="start">callback-steps.png</text>
+<rect x="162" y="438" width="102" height="62" fill="#E4E8EE" stroke="#D6DCE5"/>
+<text x="213" y="474" font-size="11" fill="#4A5568" text-anchor="middle">image</text>
+<text x="162" y="516" font-size="10" fill="#4A5568" text-anchor="start">directory.png</text>
+<text x="52" y="548" font-size="13" fill="#4A5568" text-anchor="start">Posted Mar 3, 2025 2:05 PM by Jordan Lee</text>
+<text x="52" y="568" font-size="13" fill="#4A5568" text-anchor="start">Effective Mar 10, 2025</text>
+<text x="52" y="588" font-size="13" fill="#4A5568" text-anchor="start">Acknowledge by Mar 7, 2025</text>
+<rect x="52" y="614" width="260" height="40" fill="#FFFFFF" stroke="#8A95A6" rx="4"/>
+<text x="182.0" y="639.0" font-size="14" fill="#1A2230" text-anchor="middle" font-weight="600">Open related SOP or ticket</text>
+<text x="52" y="704" font-size="14" fill="#17603A" text-anchor="start" font-weight="600">You acknowledged this update on Mar 3, 2025 3:12 PM</text>
+<rect x="632" y="84" width="702" height="660" fill="#FFFFFF" stroke="#D6DCE5"/>
+<rect x="652" y="98" width="190" height="40" fill="#FFFFFF" stroke="#8A95A6" rx="4"/>
+<text x="747.0" y="123.0" font-size="14" fill="#1A2230" text-anchor="middle" font-weight="600">Questions (2)</text>
+<rect x="850" y="98" width="200" height="40" fill="#1B4F9C" stroke="#1B4F9C" rx="4"/>
+<text x="950.0" y="123.0" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="600">Acknowledgements</text>
+<text x="652" y="178" font-size="18" fill="#1A2230" text-anchor="start" font-weight="600">9 of 12 acknowledged</text>
+<rect x="1204" y="150" width="110" height="40" fill="#FFFFFF" stroke="#8A95A6" rx="4"/>
+<text x="1259.0" y="175.0" font-size="14" fill="#1A2230" text-anchor="middle" font-weight="600">Refresh</text>
+<rect x="652" y="200" width="340" height="40" fill="#1B4F9C" stroke="#1B4F9C" rx="4"/>
+<text x="822.0" y="225.0" font-size="14" fill="#FFFFFF" text-anchor="middle" font-weight="600">Email a reminder to the 3 not reviewed</text>
+<rect x="1084" y="200" width="230" height="40" fill="#FFFFFF" stroke="#8A95A6" rx="4"/>
+<text x="1199.0" y="225.0" font-size="14" fill="#1A2230" text-anchor="middle" font-weight="600">Post corrected version</text>
+<text x="664" y="270" font-size="13" fill="#4A5568" text-anchor="start" font-weight="600">Teammate</text>
+<text x="904" y="270" font-size="13" fill="#4A5568" text-anchor="start" font-weight="600">Status</text>
+<text x="1044" y="270" font-size="13" fill="#4A5568" text-anchor="start" font-weight="600">Acknowledged on</text>
+<rect x="652" y="282" width="662" height="40" fill="#FDECEC"/>
+<text x="664" y="307" font-size="13" fill="#1A2230" text-anchor="start" font-weight="600">Casey Nguyen</text>
+<text x="904" y="307" font-size="13" fill="#A80000" text-anchor="start" font-weight="600">Not Reviewed</text>
+<rect x="652" y="322" width="662" height="40" fill="#FDECEC"/>
+<text x="664" y="347" font-size="13" fill="#1A2230" text-anchor="start" font-weight="600">Quinn Foster</text>
+<text x="904" y="347" font-size="13" fill="#A80000" text-anchor="start" font-weight="600">Not Reviewed</text>
+<rect x="652" y="362" width="662" height="40" fill="#FDECEC"/>
+<text x="664" y="387" font-size="13" fill="#1A2230" text-anchor="start" font-weight="600">Sam Patel</text>
+<text x="904" y="387" font-size="13" fill="#A80000" text-anchor="start" font-weight="600">Not Reviewed</text>
+<text x="664" y="427" font-size="13" fill="#1A2230" text-anchor="start" font-weight="600">Alex Rivera</text>
+<text x="904" y="427" font-size="13" fill="#17603A" text-anchor="start" font-weight="600">Acknowledged</text>
+<text x="1044" y="427" font-size="13" fill="#1A2230" text-anchor="start">Mar 3, 3:12 PM</text>
+<text x="664" y="467" font-size="13" fill="#1A2230" text-anchor="start" font-weight="600">Avery Chen</text>
+<text x="904" y="467" font-size="13" fill="#17603A" text-anchor="start" font-weight="600">Acknowledged</text>
+<text x="1044" y="467" font-size="13" fill="#1A2230" text-anchor="start">Mar 3, 2:20 PM</text>
+<text x="664" y="507" font-size="13" fill="#1A2230" text-anchor="start" font-weight="600">Jamie Ortiz</text>
+<text x="904" y="507" font-size="13" fill="#17603A" text-anchor="start" font-weight="600">Acknowledged</text>
+<text x="1044" y="507" font-size="13" fill="#1A2230" text-anchor="start">Mar 3, 2:41 PM</text>
+<text x="664" y="547" font-size="13" fill="#1A2230" text-anchor="start" font-weight="600">Morgan Diaz</text>
+<text x="904" y="547" font-size="13" fill="#17603A" text-anchor="start" font-weight="600">Acknowledged</text>
+<text x="1044" y="547" font-size="13" fill="#1A2230" text-anchor="start">Mar 4, 8:05 AM</text>
+<text x="664" y="587" font-size="13" fill="#1A2230" text-anchor="start" font-weight="600">Riley Brooks</text>
+<text x="904" y="587" font-size="13" fill="#17603A" text-anchor="start" font-weight="600">Acknowledged</text>
+<text x="1044" y="587" font-size="13" fill="#1A2230" text-anchor="start">Mar 3, 4:30 PM</text>
+<text x="664" y="627" font-size="13" fill="#1A2230" text-anchor="start" font-weight="600">Taylor Kim</text>
+<text x="904" y="627" font-size="13" fill="#17603A" text-anchor="start" font-weight="600">Acknowledged</text>
+<text x="1044" y="627" font-size="13" fill="#1A2230" text-anchor="start">Mar 4, 9:17 AM</text>
+<text x="664" y="667" font-size="12" fill="#4A5568" text-anchor="start">3 more acknowledged teammates below</text>
+</svg>

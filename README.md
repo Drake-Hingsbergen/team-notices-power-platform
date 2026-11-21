@@ -37,6 +37,33 @@ Design choices worth noting:
 
 See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for lists, columns, flow logic, screens and limits.
 
+## Screens
+
+Sample data only. These are illustrations with made-up people, not captures from a real tenant.
+
+![Update with questions and answers](docs/images/questions.svg)
+![Update with acknowledgement roster](docs/images/roster.svg)
+![Send dialog with recipient picker](docs/images/recipient-picker.svg)
+
+## Architecture
+
+```mermaid
+flowchart LR
+    Poster[Poster] -->|posts update| App[Canvas app]
+    App -->|adds row| Req[(Requests list)]
+    App -->|sends email as poster| Mail[Outlook]
+    Req -->|trigger| F1[Flow: process request]
+    F1 -->|validates, writes| Notices[(Notices list)]
+    F1 -->|one row per recipient| Acks[(Acknowledgements list)]
+    Mate[Teammate] -->|acknowledges| App
+    App -->|adds row| Req
+    Members[(Members list)] -.->|roles| F1
+    Members -.->|roles| App
+    Timer[Daily schedule] --> F3[Flow: due date summary]
+    F3 -->|reads| Acks
+    F3 -->|summary email from shared mailbox| Lead[Leads]
+```
+
 ## Deploy
 
 1. Create a SharePoint team site.
@@ -55,10 +82,17 @@ python src/build_screens.py
 7. Paste the four files from `out/screens` into the app as whole screens. Put `scrMyNotices` first.
 8. Share the app with the team. Give them Read on the site, not membership of the site's Microsoft 365 group.
 
+## What I would do next
+
+- Package the app and flows as a Power Platform solution so they move between environments with connection references instead of manual re-pointing.
+- Add a failure alert on both flows and move ownership to a service account so the system does not depend on one person.
+- Replace the non-delegable search with an indexed column once the notice history outgrows the app row limit.
+- Rename "Related SOP or ticket" to a neutral "Related link" for teams that do not use SOPs.
+
 ## How AI was used
 
 Built with Claude as a pair engineer. I set the requirements, made the design decisions, ran every import and test in the tenant and fed errors back. Claude generated the scripts, flow definitions and screens. Each change was checked by a separate review agent before it was deployed, which caught several logic bugs before go-live.
 
 ## License and scope
 
-Shared as a work sample and starting point. Test in a non-production environment first.
+Released under the MIT License (see LICENSE). Shared as a work sample and starting point. Test in a non-production environment first.
