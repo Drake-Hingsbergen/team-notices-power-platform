@@ -6,6 +6,8 @@ Leads post an update. The team gets it by email from the poster. Each teammate a
 
 This is a generic template. It contains no organization data. All names, addresses and IDs are placeholders.
 
+**Status:** complete. Every feature listed below is built and tested.
+
 ## What it does
 
 - Post an update with category, effective date, acknowledge-by date, optional link and file attachments.
